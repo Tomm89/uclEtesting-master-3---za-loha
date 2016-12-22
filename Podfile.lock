@@ -1,0 +1,21 @@
+PODS:
+  - Cake (0.2.0)
+  - FoldingCell (1.0.0)
+  - iCarousel (1.8.3)
+  - LACircleChartView (1.0.0)
+
+DEPENDENCIES:
+  - Cake
+  - FoldingCell (~> 1.0)
+  - iCarousel (~> 1.8.3)
+  - LACircleChartView
+
+SPEC CHECKSUMS:
+  Cake: fb3fe4e510e2b2dd557b37254c81279559164aae
+  FoldingCell: ca0b0f73a853143bf7d968c04a6604d25fbf1af7
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  LACircleChartView: d5cdbe05d0a7f9fe29ed5d3e75b79a98cbfdc050
+
+PODFILE CHECKSUM: f254889e5120b6157054d7def396caa7ffaceb53
+
+COCOAPODS: 1.1.1

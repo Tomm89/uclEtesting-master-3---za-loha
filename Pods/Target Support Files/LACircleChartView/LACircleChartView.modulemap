@@ -1,0 +1,6 @@
+framework module LACircleChartView {
+  umbrella header "LACircleChartView-umbrella.h"
+
+  export *
+  module * { export * }
+}

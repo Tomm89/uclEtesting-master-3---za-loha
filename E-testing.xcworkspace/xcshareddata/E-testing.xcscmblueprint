@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "179295227F1C9D66040BC5BA837346330AEAE6BB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "179295227F1C9D66040BC5BA837346330AEAE6BB" : 0,
+    "DC8104D705D599BE06A16B92215F4877EC1C7AEB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46709F27-9CB2-46A3-85F7-2C397941FB3B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "179295227F1C9D66040BC5BA837346330AEAE6BB" : "UCLEtesting\/",
+    "DC8104D705D599BE06A16B92215F4877EC1C7AEB" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "E-testing",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "E-testing.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/unicornmobile\/uclEtesting",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "179295227F1C9D66040BC5BA837346330AEAE6BB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/unicornmobile\/osvc",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DC8104D705D599BE06A16B92215F4877EC1C7AEB"
+    }
+  ]
+}
