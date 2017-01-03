@@ -1,16 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "179295227F1C9D66040BC5BA837346330AEAE6BB",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6EA8B5ECC07979C0E50AB837DCE02F2FEB1A7F94",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DC8104D705D599BE06A16B92215F4877EC1C7AEB" : 0,
     "179295227F1C9D66040BC5BA837346330AEAE6BB" : 0,
-    "DC8104D705D599BE06A16B92215F4877EC1C7AEB" : 0
+    "6EA8B5ECC07979C0E50AB837DCE02F2FEB1A7F94" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46709F27-9CB2-46A3-85F7-2C397941FB3B",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DC8104D705D599BE06A16B92215F4877EC1C7AEB" : "",
     "179295227F1C9D66040BC5BA837346330AEAE6BB" : "UCLEtesting\/",
-    "DC8104D705D599BE06A16B92215F4877EC1C7AEB" : ""
+    "6EA8B5ECC07979C0E50AB837DCE02F2FEB1A7F94" : "uclEtesting-master-3%20-%20za%CC%81loha\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "E-testing",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -20,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/unicornmobile\/uclEtesting",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "179295227F1C9D66040BC5BA837346330AEAE6BB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Tomm89\/uclEtesting-master-3---za-loha.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6EA8B5ECC07979C0E50AB837DCE02F2FEB1A7F94"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/unicornmobile\/osvc",
